@@ -5,4 +5,6 @@ Simple extension functions for compose navigation
 This video demonstrates the key navigation features and functionalities of the ComposeNavigation application example in action:
 
 
-![ComposeNavigation Demo](example/example.gif)
+<div align="center">
+  <img src="example/example.gif" width="370" height="750" alt="ComposeNavigation Demo" />
+</div>
